@@ -1,0 +1,36 @@
+# Generated chart images
+charts/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Pytest cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# Jupyter notebooks (if generated)
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
