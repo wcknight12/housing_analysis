@@ -1,0 +1,46 @@
+zip_code,city_name,metro,state,population,median_household_income,median_age,pct_bachelor_or_higher,pct_below_poverty,median_commute_minutes,pct_owner_occupied,unemployment_rate,school_rating,walk_score,transit_score,crime_index,park_access_score,air_quality_index
+78701,Austin,Austin-Round Rock-Georgetown,TX,19588,102808.0,41.2,0.294,0.216,36.3,0.714,0.033,7.8,82,64,44.1,90.2,62.2
+78702,Austin,Austin-Round Rock-Georgetown,TX,20213,104199.0,33.6,0.511,0.051,37.9,0.653,0.07,8.7,71,33,83.1,88.1,68.9
+78703,Austin,Austin-Round Rock-Georgetown,TX,21920,86297.0,32.5,0.571,0.174,41.2,0.53,0.047,8.7,27,14,32.3,38.4,53.8
+78704,Austin,Austin-Round Rock-Georgetown,TX,20904,87217.0,37.0,0.641,0.166,25.5,0.733,0.073,8.8,81,35,38.7,74.4,37.0
+78745,Austin,Austin-Round Rock-Georgetown,TX,32686,86447.0,40.6,0.581,0.181,29.0,0.627,0.033,8.4,77,25,63.4,60.6,58.3
+78748,Austin,Austin-Round Rock-Georgetown,TX,8123,102552.0,38.9,0.513,0.095,18.7,0.575,0.038,8.5,43,36,75.5,45.2,32.9
+78750,Austin,Austin-Round Rock-Georgetown,TX,19635,88769.0,38.9,0.618,0.16,27.8,0.726,0.035,8.5,69,31,25.9,77.0,53.1
+78660,Austin Suburb,Austin-Round Rock-Georgetown,TX,4817,79058.0,32.4,0.577,0.12,27.1,0.521,0.063,8.8,65,33,25.7,37.7,78.1
+78613,Austin Suburb,Austin-Round Rock-Georgetown,TX,20467,98787.0,45.5,0.616,0.169,28.8,0.509,0.031,8.3,42,39,49.6,43.2,45.3
+78681,Austin Suburb,Austin-Round Rock-Georgetown,TX,36493,90091.0,43.7,0.607,0.17,28.4,0.651,0.06,8.4,31,52,25.5,57.0,32.1
+77002,Houston,Houston-The Woodlands-Sugar Land,TX,27781,69874.0,31.7,0.526,0.071,40.2,0.632,0.046,7.3,34,49,21.5,92.3,54.1
+77007,Houston,Houston-The Woodlands-Sugar Land,TX,25272,75937.0,37.8,0.481,0.209,31.7,0.589,0.041,7.3,88,31,53.8,58.5,31.1
+77019,Houston,Houston-The Woodlands-Sugar Land,TX,23541,76852.0,38.9,0.301,0.161,24.7,0.664,0.069,6.9,34,71,27.0,89.5,41.5
+77024,Houston,Houston-The Woodlands-Sugar Land,TX,31671,60286.0,35.9,0.64,0.185,25.6,0.781,0.042,6.4,66,43,36.6,90.8,38.2
+77056,Houston,Houston-The Woodlands-Sugar Land,TX,38897,60443.0,44.3,0.602,0.2,39.4,0.608,0.044,6.1,91,11,63.0,54.3,34.7
+77079,Houston,Houston-The Woodlands-Sugar Land,TX,31792,75183.0,45.0,0.363,0.062,37.9,0.461,0.036,6.9,49,48,76.8,42.8,45.5
+77380,Houston Suburb,Houston-The Woodlands-Sugar Land,TX,21975,92074.0,32.3,0.257,0.081,21.2,0.671,0.032,7.7,58,29,65.1,67.8,40.0
+77479,Houston Suburb,Houston-The Woodlands-Sugar Land,TX,22227,92755.0,41.8,0.312,0.062,40.3,0.559,0.043,8.4,33,41,63.1,92.1,44.3
+77494,Houston Suburb,Houston-The Woodlands-Sugar Land,TX,25489,95833.0,40.1,0.3,0.065,28.1,0.786,0.061,7.8,62,21,72.3,60.4,69.2
+77584,Houston Suburb,Houston-The Woodlands-Sugar Land,TX,37588,72705.0,43.3,0.625,0.082,30.7,0.642,0.077,8.6,75,49,46.8,54.3,51.3
+75201,Dallas,Dallas-Fort Worth-Arlington,TX,13866,83646.0,34.0,0.361,0.174,37.6,0.442,0.029,6.5,55,40,29.5,83.6,45.5
+75204,Dallas,Dallas-Fort Worth-Arlington,TX,25399,71453.0,32.6,0.384,0.068,20.8,0.408,0.028,8.1,38,21,23.5,68.4,64.0
+75205,Dallas,Dallas-Fort Worth-Arlington,TX,39439,77447.0,44.0,0.65,0.048,22.4,0.495,0.04,7.8,58,51,47.1,33.2,48.7
+75225,Dallas,Dallas-Fort Worth-Arlington,TX,24564,80570.0,43.3,0.274,0.206,20.4,0.737,0.079,6.9,41,73,72.1,80.7,62.1
+75230,Dallas,Dallas-Fort Worth-Arlington,TX,33737,86696.0,38.2,0.653,0.123,27.2,0.656,0.041,7.5,60,13,51.1,57.1,41.6
+75254,Dallas,Dallas-Fort Worth-Arlington,TX,9031,76820.0,35.2,0.428,0.163,25.1,0.78,0.08,8.1,82,41,41.3,64.8,72.4
+75034,Dallas Suburb,Dallas-Fort Worth-Arlington,TX,23909,96211.0,40.1,0.385,0.172,22.9,0.678,0.077,9.1,60,69,59.9,36.2,66.3
+75070,Dallas Suburb,Dallas-Fort Worth-Arlington,TX,8755,80532.0,32.2,0.701,0.184,32.2,0.713,0.073,7.7,87,71,36.5,68.4,34.8
+75025,Dallas Suburb,Dallas-Fort Worth-Arlington,TX,8656,95206.0,39.2,0.469,0.134,36.3,0.72,0.055,8.2,62,25,80.5,37.8,35.9
+75093,Dallas Suburb,Dallas-Fort Worth-Arlington,TX,25585,80621.0,36.7,0.614,0.161,26.0,0.759,0.071,8.8,67,27,43.7,50.4,37.9
+76102,Fort Worth,Dallas-Fort Worth-Arlington,TX,23980,64392.0,36.1,0.593,0.14,40.5,0.712,0.054,7.7,54,19,84.1,76.7,77.6
+76107,Fort Worth,Dallas-Fort Worth-Arlington,TX,17548,63759.0,40.2,0.307,0.146,34.5,0.405,0.052,8.5,73,63,39.2,59.8,52.1
+76109,Fort Worth,Dallas-Fort Worth-Arlington,TX,30576,67722.0,31.8,0.719,0.198,24.8,0.735,0.031,7.4,77,53,63.3,72.3,34.5
+76132,Fort Worth,Dallas-Fort Worth-Arlington,TX,39967,80576.0,33.9,0.317,0.18,22.8,0.764,0.064,7.4,85,12,20.4,33.4,60.3
+76052,Fort Worth,Dallas-Fort Worth-Arlington,TX,14360,78512.0,30.9,0.626,0.207,36.5,0.679,0.075,6.2,81,39,33.1,38.1,55.2
+78201,San Antonio,San Antonio-New Braunfels,TX,5445,66560.0,43.6,0.323,0.172,22.6,0.508,0.068,6.6,60,73,59.8,33.5,60.8
+78205,San Antonio,San Antonio-New Braunfels,TX,20521,53488.0,32.8,0.293,0.073,41.5,0.583,0.072,6.4,72,26,57.2,39.4,77.3
+78209,San Antonio,San Antonio-New Braunfels,TX,26910,58305.0,41.2,0.555,0.209,21.6,0.603,0.049,5.6,86,40,27.7,38.7,43.9
+78216,San Antonio,San Antonio-New Braunfels,TX,32280,58368.0,40.2,0.444,0.114,23.2,0.635,0.044,6.0,65,69,47.2,60.8,41.3
+78230,San Antonio,San Antonio-New Braunfels,TX,5298,63348.0,41.2,0.555,0.157,25.6,0.715,0.058,6.7,38,38,60.7,53.4,55.6
+78250,San Antonio,San Antonio-New Braunfels,TX,8617,66403.0,38.1,0.495,0.184,25.5,0.735,0.055,6.6,86,12,24.7,84.7,32.8
+78258,San Antonio,San Antonio-New Braunfels,TX,8170,57919.0,32.8,0.398,0.174,18.4,0.731,0.076,6.8,52,34,30.0,69.1,36.0
+78023,San Antonio,San Antonio-New Braunfels,TX,6757,59488.0,42.4,0.396,0.164,34.9,0.555,0.063,6.2,91,31,33.6,64.1,38.2
+78132,San Antonio,San Antonio-New Braunfels,TX,4386,55786.0,45.8,0.511,0.191,41.8,0.457,0.052,7.0,81,35,25.2,79.1,51.7
+78130,San Antonio,San Antonio-New Braunfels,TX,15028,61429.0,44.5,0.271,0.082,25.0,0.596,0.06,6.3,37,57,25.5,45.8,72.2
